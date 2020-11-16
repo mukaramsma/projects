@@ -1,0 +1,8 @@
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\bin\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.deps.json
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\bin\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.dll
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\bin\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.pdb
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\obj\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.AssemblyInfoInputs.cache
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\obj\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.AssemblyInfo.cs
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\obj\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.dll
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\obj\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.pdb
+C:\Mukaram\Assignment\Backend\SalesManagementSystem.Backend\SalesManagementSystem.BusinessLayer\obj\Debug\netcoreapp3.1\SalesManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
